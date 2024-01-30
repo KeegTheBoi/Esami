@@ -1,0 +1,6 @@
+[submodule "SO-Past-Exams"]
+	path = SO-Past-Exams
+	url = https://github.com/KeegTheBoi/SO-Past-Exams
+[submodule "OOP-Past-Exams"]
+	path = OOP-Past-Exams
+	url = https://github.com/KeegTheBoi/OOP-Past-Exams
